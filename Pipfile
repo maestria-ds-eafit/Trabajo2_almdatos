@@ -11,6 +11,8 @@ matplotlib = "*"
 plotly = "*"
 nbformat = "*"
 wordcloud = "*"
+pyspark = "*"
+spark-nlp = "*"
 
 [dev-packages]
 ipykernel = "*"
