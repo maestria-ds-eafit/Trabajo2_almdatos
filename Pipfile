@@ -10,6 +10,7 @@ numpy = "*"
 matplotlib = "*"
 plotly = "*"
 nbformat = "*"
+wordcloud = "*"
 
 [dev-packages]
 ipykernel = "*"
