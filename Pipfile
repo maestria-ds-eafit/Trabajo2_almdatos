@@ -13,6 +13,7 @@ nbformat = "*"
 wordcloud = "*"
 pyspark = "*"
 spark-nlp = "*"
+py4j = "*"
 
 [dev-packages]
 ipykernel = "*"
