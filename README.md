@@ -14,3 +14,5 @@
 * Instalar Pipenv (pip install pipenv)
 * Instalar dependencies/crear ambiente virtual (pipenv install)
 * Utilizar la versión de python 3.11.5
+
+
