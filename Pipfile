@@ -12,6 +12,13 @@ plotly = "*"
 nbformat = "*"
 wordcloud = "*"
 statsmodels = "*"
+pyspark = "*"
+spark-nlp = "*"
+py4j = "*"
+gensim = "*"
+scipy = "*"
+pyldavis = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
