@@ -17,6 +17,7 @@ py4j = "*"
 gensim = "*"
 scipy = "*"
 pyldavis = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
