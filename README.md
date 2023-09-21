@@ -15,4 +15,6 @@
 * Instalar dependencies/crear ambiente virtual (pipenv install)
 * Utilizar la versión de python 3.11.5
 
+## Convenciones
 
+* Utilizar snake_case para nombres de variables y funciones
